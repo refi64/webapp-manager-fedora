@@ -17,6 +17,7 @@ Requires: python3-tldextract
 Requires: xapps
 
 BuildRequires: gettext
+BuildRequires: make
 BuildRequires: python3-devel
 
 %{?python_disable_dependency_generator}
