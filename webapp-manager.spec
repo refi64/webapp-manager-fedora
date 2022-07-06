@@ -1,5 +1,5 @@
 Name:    webapp-manager
-Version: 1.1.7
+Version: 1.2.2
 Release: 1%{?dist}
 Summary: Web Application Manager
 License: GPLv3+
